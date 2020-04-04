@@ -5,7 +5,7 @@ category: 'development'
 draft: false
 ---
 
-# Getting Started 😎
+# Getting Started Test😎
 
 ## 1. Create a Gatsby site.
 
